@@ -1,0 +1,13 @@
+body{
+    background-image: url(./retro2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: dimgrey;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1{
+    color: #fff;
+}
+
